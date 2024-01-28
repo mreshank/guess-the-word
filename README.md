@@ -18,17 +18,18 @@ Put your word-sleuthing skills to the test in this fun and challenging game!
 * <a href="#contributing"> Contributing </a>
 * <a href="#license"> License </a>
 
-## About the Project 🥙
+## About the Project
 
 This project showcases a simple yet engaging word-guessing game built using the fundamentals of JavaScript, HTML, and CSS. Test your vocabulary and deductive reasoning as you attempt to uncover the hidden word within a limited number of guesses.
 
-## Features ⭐
+## Features
 
-Game-like environment: Engage in a captivating word-guessing challenge.
-Partially hidden word: Uncover letters one by one with each guess.
-Limited number of trials: Strategically use your guesses to win.
-Win/lose conditions: Experience the thrill of victory or the motivation to try again.
-Custom word length: Adapt the difficulty to your preferences.
+-> Game-like environment: Engage in a captivating word-guessing challenge.
+-> Partially hidden word: Uncover letters one by one with each guess.
+-> Limited number of trials: Strategically use your guesses to win.
+-> Win/lose conditions: Experience the thrill of victory or the motivation to try again.
+-> Custom word length: Adapt the difficulty to your preferences.
+<hr>
 ## Getting Started 
 
 Clone the repository:
