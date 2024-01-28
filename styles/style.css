@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    font-weight: 600;
+    box-sizing: border-box;
+    text-align: center;
+    color: darkslategrey;
+}
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, lightblue, goldenrod);
+}
+main {
+    width: 80vmin;
+    height: 80vh;
+    border-radius: 24px;
+    background-image: linear-gradient(to bottom right, azure, aliceblue);
+}
+h1 {
+    font-family: "Black Ops One", system-ui;
+    font-size: 325%;
+}
+@media screen and (max-width: 725px) { h1 { font-size: 275%; } }
+@media screen and (max-width: 640px) { h1 { font-size: 200%; } }
+em {
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+}
+#message, #remainingGuess {
+    font-size: 105%;
+}
+#input {
+    font-size: 200%;
+    width: 14%;
+    text-align: center;
+    border-radius: 8px;
+    border: 3.25px solid turquoise;
+}
+#guessedBuilt, #word, #guess {
+    color: rgb(64, 181, 173);
+    font-size: 150%;
+    font-weight: 700;
+}
+input[type="button"] {
+    padding: 1% 6%;
+    border: 1px solid ;
+    border-radius: 25px;
+    background-color: coral;
+}
+#guess {
+    color: azure;
+}
+h4 {
+    font-weight: 900;
+}
+#reset {
+    font-size: 150%; 
+    background-image: url(../assets/reset-no-loop.gif); 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-color: transparent;
+}
+#reset:hover {
+    background-image: url(../assets/reset-loop.gif);
+}
+#resetCard {
+    border-radius: 24px;
+    background-image: url(../assets/confetti.gif); 
+    background-size: cover; 
+    min-width: 60%;
+}
+
+#word-change {
+    top: 1.75%;
+    right: 1.75%;
+    border-radius: 14px 50% 40% 12px;
+    appearance: none;
+    font-size: 2.5vh;
+    border: none !important;
+    outline: 0.125vmin solid teal !important;
+}
+#word-change {
+    max-width: 6.25%;
+}
+option {
+    background-color: rgba(173, 216, 230, 0.25);
+    text-align: left;
+}
+

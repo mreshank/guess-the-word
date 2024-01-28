@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game :: Practice</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../../bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dancing+Script:wght@400..700&family=Kanit&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Ubuntu&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body class="d-flex align-items-center justify-content-center">
+    <main class="d-flex flex-column justify-content-around align-items-center p-5 position-relative">
+        <div id="heading" class="m-4"><h1>GUESS <em>the</em> WORD</h1></div>
+        <span id="message">Good guess! The word has the letter Y.</span>
+        <div id="word"></div>
+
+        <span id="remainingGuess">You have ☼ guesses remaining.</span>
+        <div id="guessedBuilt"> </div>
+        <span id="onx">Type one letter ∙↓∙</span>
+        <form class="d-flex justify-content-center"><input id="input" type="text" minlength="1" maxlength="1" required></form>
+        <input id="guess" type="button" class="btnx bg-lightx" value="Guess!">
+
+        <div id="resetCard" class="d-none card p-4 ms-5x me-5x d-flex flex-column justify-content-between ">
+            <h4 class="m-4">Do You Want To Restart ?</h4>
+            <button id="reset" class="p-4 m-0 rounded-circle border-0"></button>
+        </div>
+
+        <select name="" id="word-change" class="position-absolute" style="width: fit-content;">
+            <!-- <option selected disabled> ⚙ Word Length </option> -->
+            <option value="3"> 3️⃣ : 3 Characters  </option>
+            <option value="5" selected> 5️⃣ : 5 Characters  </option>
+            <option value="7"> 7️⃣ : 7 Characters  </option>
+            <option value="R"> 🔄️ : Random Length  </option>
+        </select>
+    </main>
+    <script src="./scripts/script.js"></script>
+</body>
+</html>
