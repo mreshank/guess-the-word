@@ -40,8 +40,7 @@ Bash
 > 
 > cd guessTheWord
 
-Use code with caution. <i>Learn more</i>
-  `-> Navigate to the project directory and Open the index.html file in your web browser.
+Use code with caution. <i>Learn more -> Navigate to the project directory and Open the index.html file in your web browser. </i>
 
 <hr>
 
