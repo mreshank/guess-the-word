@@ -32,19 +32,15 @@ This project showcases a simple yet engaging word-guessing game built using the 
 ## Getting Started 
 
 ### Play the game:
-Go to any of these live hosted sites for this game : <a href="https://projects.eshank.biz/guessthegame"> hosted-game--server-1 </a> || <a href="https://mreshank.github.io/guessTheGame"> hosted-game--server-2 </a> || <a href="http://projects.eshank.biz/guessthegame"> hosted-game--server-3 </a> .
+Go to any of these live hosted sites for this game : <a href="https://projects.eshank.biz/guessthegame"> game-server-1 </a> || <a href="https://mreshank.github.io/guessTheGame"> game-server-2 </a> || <a href="http://projects.eshank.biz/guessthegame"> game-server-3 </a> .
 <br>
 ### Clone the repository:
 Bash
 > git clone https://github.com/mreshank/guessTheWord/
-
-Use code with caution. <a>Learn more</a>
-Navigate to the project directory:
-Bash
 > cd guessTheWord
 
 Use code with caution. <i>Learn more</i>
-Open the index.html file in your web browser.
+  `-> Navigate to the project directory and Open the index.html file in your web browser.
 
 <hr>
 
