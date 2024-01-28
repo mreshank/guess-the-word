@@ -24,11 +24,11 @@ This project showcases a simple yet engaging word-guessing game built using the 
 
 ## Features
 
--> Game-like environment: Engage in a captivating word-guessing challenge.
--> Partially hidden word: Uncover letters one by one with each guess.
--> Limited number of trials: Strategically use your guesses to win.
--> Win/lose conditions: Experience the thrill of victory or the motivation to try again.
--> Custom word length: Adapt the difficulty to your preferences.
+> Game-like environment: Engage in a captivating word-guessing challenge.
+> Partially hidden word: Uncover letters one by one with each guess.
+> Limited number of trials: Strategically use your guesses to win.
+> Win/lose conditions: Experience the thrill of victory or the motivation to try again.
+> Custom word length: Adapt the difficulty to your preferences.
 <hr>
 ## Getting Started 
 
