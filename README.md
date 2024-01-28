@@ -37,6 +37,7 @@ Go to any of these live hosted sites for this game : <a href="https://projects.e
 ### Clone the repository:
 Bash
 > git clone https://github.com/mreshank/guessTheWord/
+> 
 > cd guessTheWord
 
 Use code with caution. <i>Learn more</i>
