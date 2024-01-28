@@ -12,16 +12,19 @@ Put your word-sleuthing skills to the test in this fun and challenging game!
 ## Table of Contents
 
 * <a href="#about-the-project"> About the Project </a>
-* <a href"#features"> Features </a>
-* <a href"#getting-started"> Getting Started </a>
-* <a href"#usage"> Usage </a>
-* <a href"#contributing"> Contributing </a>
-* <a href"#license"> License </a>
+* <a href="#features"> Features </a>
+* <a href="#getting-started"> Getting Started </a>
+* <a href="#usage"> Usage </a>
+* <a href="#contributing"> Contributing </a>
+* <a href="#license"> License </a>
+
 ## About the Project 
 
 This project showcases a simple yet engaging word-guessing game built using the fundamentals of JavaScript, HTML, and CSS. Test your vocabulary and deductive reasoning as you attempt to uncover the hidden word within a limited number of guesses.
 
+<div id="features">
 ## Features ⭐
+</div>
 
 Game-like environment: Engage in a captivating word-guessing challenge.
 Partially hidden word: Uncover letters one by one with each guess.
