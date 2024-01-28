@@ -5,7 +5,7 @@ This is a simple project that utilizes basic JavaScript html and CSS in order to
 
 Here's a well-formatted and informative README.md file for the repo:
 
-**# Guess the Word **
+# Guess the Word
 
 Put your word-sleuthing skills to the test in this fun and challenging game!
 
@@ -17,7 +17,7 @@ Getting Started: #getting-started
 Usage: #usage
 Contributing: #contributing
 License: #license
-**## About the Project **
+## About the Project 
 
 This project showcases a simple yet engaging word-guessing game built using the fundamentals of JavaScript, HTML, and CSS. Test your vocabulary and deductive reasoning as you attempt to uncover the hidden word within a limited number of guesses.
 
@@ -28,7 +28,7 @@ Partially hidden word: Uncover letters one by one with each guess.
 Limited number of trials: Strategically use your guesses to win.
 Win/lose conditions: Experience the thrill of victory or the motivation to try again.
 Custom word length: Adapt the difficulty to your preferences.
-**## Getting Started **
+## Getting Started 
 
 Clone the repository:
 Bash
@@ -39,7 +39,7 @@ Bash
 cd guessTheWord
 Use code with caution. Learn more
 Open the index.html file in your web browser.
-**## Usage **
+## Usage 
 
 The game will display a partially hidden word.
 Start guessing letters:
@@ -48,7 +48,7 @@ Incorrect guesses count as trials.
 Win by guessing the word correctly within the given trials.
 Lose if you exhaust all trials without guessing the word.
 Customize the word length for added challenge.
-**## Contributing **
+## Contributing 
 
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or add new features.
 
