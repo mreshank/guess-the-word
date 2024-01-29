@@ -34,9 +34,9 @@ This project showcases a simple yet engaging word-guessing game built using the 
 ### Play the game:
 Go to any of these live hosted sites for this game :-
 
-* secure servers  ::  [game-server-1](https://apps.eshank.biz/guess-the-word) || [game-server-2](https://mreshank.github.io/guessTheWord/) || [game-server-3](https://projects.eshank.biz/guess-the-word)
+* secure servers  ::  [game-server-1](https://apps.eshank.biz/guess-the-word/) || [game-server-2](https://mreshank.github.io/guessTheWord/) || [game-server-3](https://projects.eshank.biz/guess-the-word/)
 
-* unsecure servers :: [game-server-4](http://projects.eshank.biz/guess-the-word) || [game-server-5](https://apps.eshank.biz/guess-the-word).
+* unsecure servers :: [game-server-4](http://projects.eshank.biz/guess-the-word/) || [game-server-5](https://apps.eshank.biz/guess-the-word/).
 
 ### Clone the repository:
 Bash
@@ -77,12 +77,12 @@ This project is licensed under the GNU General Public License v3.0 License. See 
 ### Ready to test your word-guessing prowess? Dive in and enjoy the game!
 
 <em>secure servers :</em></br>
-* <a href="https://apps.eshank.biz/guess-the-word"> Go To the Game -- V1 </a> 
-* <a href="https://mreshank.github.io/guessTheWord"> Go To the Game -- V2 </a>
-* <a href="https://projects.eshank.biz/guess-the-word"> Go To the Game -- V3 </a> .
+* <a href="https://apps.eshank.biz/guess-the-word/"> Go To the Game -- V1 </a> 
+* <a href="https://mreshank.github.io/guessTheWord/"> Go To the Game -- V2 </a>
+* <a href="https://projects.eshank.biz/guess-the-word/"> Go To the Game -- V3 </a> .
 
 <em>unsecure servers :</em></br>
-* <a href="http://apps.eshank.biz/guess-the-word"> Go To the Game -- V4 </a>
-* <a href="http://projects.eshank.biz/guess-the-word"> Go To the Game -- V5 </a> .
+* <a href="http://apps.eshank.biz/guess-the-word/"> Go To the Game -- V4 </a>
+* <a href="http://projects.eshank.biz/guess-the-word/"> Go To the Game -- V5 </a> .
 
 <i> if any of the above links do not work, then try another one .. </a>
