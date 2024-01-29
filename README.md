@@ -32,7 +32,7 @@ This project showcases a simple yet engaging word-guessing game built using the 
 ## Getting Started 
 
 ### Play the game:
-Go to any of these live hosted sites for this game : <a href="https://projects.eshank.biz/guess-the-game"> game-server-1 </a> || <a href="https://mreshank.github.io/guessTheGame"> game-server-2 </a> || <a href="http://projects.eshank.biz/guess-the-game"> game-server-3 </a> .
+Go to any of these live hosted sites for this game : <a href="https://projects.eshank.biz/guess-the-game"> game-server-1 </a> || [game-server-2](https://mreshank.github.io/guessTheWord/) || <a href="http://projects.eshank.biz/guess-the-game"> game-server-3 </a> .
 <br>
 ### Clone the repository:
 Bash
